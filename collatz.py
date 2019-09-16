@@ -1,5 +1,5 @@
 # The number we will perform the Collatz operation on
-n = 20
+n = int(input("enter a positive integer: "))
 
 # Keep looping until we reach 1
 while n != 1:
