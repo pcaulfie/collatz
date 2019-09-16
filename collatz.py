@@ -1,4 +1,7 @@
 # The number we will perform the Collatz operation on
+
+# Ask user to enter a positive integer
+# int - converts input into integer
 n = int(input("enter a positive integer: "))
 
 # Keep looping until we reach 1
