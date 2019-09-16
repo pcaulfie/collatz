@@ -8,7 +8,7 @@ while n != 1:
     # check if n is even
     if n % 2 == 0:
         # if n is even, divide it my two
-        n = n / 2
+        n = n // 2
     else:
         # if n is odd, multiply it by three and add one
         n = (3 * n) + 1
